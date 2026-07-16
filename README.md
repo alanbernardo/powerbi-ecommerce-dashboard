@@ -64,7 +64,7 @@ O conjunto de dados reúne informações reais de pedidos realizados entre 2016 
 # Modelagem dos Dados
 
 <p align="center">
-  <img src="images/modelagem.png" width="85%">
+  <img src="images/modelagem.png" width="80%">
 </p>
 
 
