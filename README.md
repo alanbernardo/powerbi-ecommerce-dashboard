@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/dashboard.png" width="95%">
+  <img src="images/Dashboard.png" width="95%">
 </p>
 
 <h1 align="center">
@@ -64,7 +64,7 @@ O conjunto de dados reúne informações reais de pedidos realizados entre 2016 
 # Modelagem dos Dados
 
 <p align="center">
-  <img src="images/modelagem.png" width="80%">
+  <img src="images/Modelagem.png" width="85%">
 </p>
 
 
